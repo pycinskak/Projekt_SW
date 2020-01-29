@@ -44,7 +44,6 @@ int sc_main(int argc, char** argv)
 {
 	top = new SYSTEM("top");
 	sc_start();
-	cout << "EPEPEP";
 	getchar();
 	return 0;
 }
